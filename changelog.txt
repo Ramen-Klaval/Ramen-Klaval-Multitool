@@ -1,0 +1,20 @@
+Thanks for using the multitool. Here's what's new in v0.9.5-beta
+	-Added the Klaval multitool to the file
+	-Minor bugfixes and improvements
+What's to come?
+	-All of the Klaval multitool features
+	-Even more features, like:
+		-Caesar Virus Loader
+		-Links to more helpful sites
+		-Hacking group chat links
+	-Open-source password removed files
+Contact
+	DISCORD
+		-Ramen#4608
+		-Klaymer#5458
+		-Myst1c-_GL1TCH_-#5150
+	EMAIL
+		-ramenklavalmultitool@gmail.com
+Anything else
+	-DON'T USE THE ADMIN KEY UNLESS ALLOWED
+That's all for now, see ya in the next update.

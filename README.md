@@ -1,0 +1,2 @@
+Hello, and thank you for using the RamenKlaval multitool. This is currently in an unstable state, and is not yet completed. We have just now started working together, so eventually the two multitools will be one experience, and not just a launcher for the two. There is also included a legacy version of both of the multitools that are no longer updated or officially supported. If/when they stop working, they will not be updated or fixed.
+Release 1.0 is coming soon.
