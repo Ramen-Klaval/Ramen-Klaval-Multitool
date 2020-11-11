@@ -1,5 +1,5 @@
 
-# This version does NOT FUNCTION. it has login code removed. this is for education purposes only.
+# So, you've decompiled my code. Great job, take our passwords.
 
 # import resources
 
@@ -110,39 +110,68 @@ def multitoolK():
     """)
     userInput = input("Klaval/" + winUserName + "/" + rights + ": ")
     if userInput == "1":
-        os.startfile(dir + "\resources\resources.dll\IpPingerList.bat")
+        os.startfile(dir + r"\GitHub\Ramen-Klaval-Multitool\resources\IpPingerList.bat")
+        multitoolK()
     elif userInput == "2":
-        print("To be implimented in the Python Rewrite")
+        os.startfile(dir + r"\GitHub\Ramen-Klaval-Multitool\resources\socialstuff.bat")
+        multitoolK()
     elif userInput == "3":
-        os.system("start \"\" https://www.youtube.com/")
+        os.startfile(dir + r"\GitHub\Ramen-Klaval-Multitool\resources\lookip.bat")
         multitoolK()
     elif userInput == "4":
-        os.system("start \"\" http://patorjk.com/software/taag/#p=display&f=Delta%20Corps%20Priest%201&t=I%20LOVE%20KLAVAL")
-        multitoolK()
-    elif userInput == "5":
-        print("To be implimented in the Python Rewrite")
-    elif userInput == "6":
-        print("To be implimented in the Python Rewrite")
-    elif userInput == "7":
-        os.system("start \"\" https://www.virtualbox.org")
-        multitoolK()
-    elif userInput == "8":
-        os.system("start \"\" https://nmap.org/npcap/dist/npcap-0.9994.exe")
-        os.system("start \"\" https://lanc-remastered.com/2019/10/30/how-to-download-lanc-remastered/")
-        multitoolK()
-    elif userInput == "9":
-        os.system("start \"\" https://doxbin.org/")
-        multitoolK()
-    elif userInput == "10":
         os.system("start \"\" https://download.virtualbox.org/virtualbox/6.1.12/VirtualBox-6.1.12-139181-Win.exe")
         os.system("start \"\" https://download.virtualbox.org/virtualbox/6.1.12/Oracle_VM_VirtualBox_Extension_Pack-6.1.12.vbox-extpack")
         os.system("start \"\" https://www.youtube.com/watch?v=V_Payl5FlgQ")
+        multitoolK()
+    elif userInput == "5":
+        os.system("start \"\" https://www.youtube.com/")
+        multitoolK()
+    elif userInput == "6":
+        os.system("start \"\" https://nmap.org/npcap/dist/npcap-0.9994.exe")
+        os.system("start \"\" https://lanc-remastered.com/2019/10/30/how-to-download-lanc-remastered/")
+        multitoolK()
+    elif userInput == "7":
+        os.system("start \"\" http://patorjk.com/software/taag/#p=display&f=Delta%20Corps%20Priest%201&t=I%20LOVE%20KLAVAL")
+        multitoolK()
+    elif userInput == "8":
+        os.system("start \"\" https://doxbin.org/")
+        multitoolK()
+    elif userInput == "9":
+        os.startfile(dir + r"\GitHub\Ramen-Klaval-Multitool\resources\BooterArea.bat")
+        multitoolK()
+    elif userInput == "10":
+        os.system("start \"\" https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/#1572305786534-030ce714-cc3b")
         multitoolK()
     else:
         print("Wrong number, type another number.")
         multitoolK()
         
-# This is where the login info for Klaval's multitool would be.
+# Here would be the login info for Klaval multitool
+
+def klaval():
+    print("Temporarily, this is an unofficial python rewrite to be compatible with the other multitool by Ramen. An official version by Klaymer")
+    print("himself will be released. At the moment some of the commands simply open their original bat.")
+    print("This version will stay as true to the original batch as possible.")
+    time.sleep(2)
+    print("""
+ Login to use the Multitool
+    ▄█   ▄█▄  ▄█          ▄████████    ▄█    █▄     ▄████████   ▄█              
+   ███ ▄███▀  ███         ███    ███  ███    ███   ███    ███   ███               
+   ███▐██▀    ███         ███    ███  ███    ███   ███    ███   ███           
+  ▄█████▀     ███         ███    ███  ███    ███   ███    ███   ███           
+ ▀▀█████▄     ███        ▀███████████ ███    ███  ▀███████████  ███             
+   ███▐██▄    ███         ███    ███  ███    ███   ███    ███   ███           
+   ███ ▀███▄  ███▌    ▄   ███    ███  ███    ███   ███    ███   ███▌    ▄    
+   ███   ▀█▀  █████▄▄██   ███    █▀    ▀██████▀    ███    █▀    █████▄▄██
+   """)
+    userName = input("Enter username: ")
+    if userName == "guest":
+        loginGuestK()
+    elif userName == "admin":
+        loginAdminK
+    else:
+        print("Wrong Login, try again...")
+        klaval()
 
 # Only for now, the combination of the two multitools are only in a launcher.
 
@@ -301,7 +330,7 @@ def menu():
         print("Invalid syntax.")
         menu()
 
-# Here is where the login would be for the Ramen multitool.
+# Here would be the login info for Ramen multitool
         
 # Starts program
 

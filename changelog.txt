@@ -1,13 +1,16 @@
-Thanks for using the multitool. Here's what's new in v0.9.5-beta
-	-Added the Klaval multitool to the file
-	-Minor bugfixes and improvements
+Thanks for using the multitool. Here's what's new in v0.10.0-beta
+	-The Klaval multitool features work now, kinda
+		The multitool uses the original bat files for most of it, though the passwords are now more secure then in the standalone Klaval Multitool
+	-MAJOR BUGFIXES
+		Uh, I dunno, the Klaval features actually work now. That's a start. They worked in the original, I mean the Python rewrite.
+	-This may or may not change, but you now need the resources folder for... Resources. This is required by the Klaval half.
+	-Included in the github, NOT the zip, there is source code with passwords removed for the very first time.
+		THE SOURCE CODE DOES NOT FUNCTION, IT IS FOR EDUCATIONAL PURPOSES ONLY!
 What's to come?
-	-All of the Klaval multitool features
 	-Even more features, like:
 		-Caesar Virus Loader
 		-Links to more helpful sites
 		-Hacking group chat links
-	-Open-source password removed files
 Contact
 	DISCORD
 		-Ramen#4608
